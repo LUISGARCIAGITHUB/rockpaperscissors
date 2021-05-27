@@ -5,5 +5,8 @@
 #choices{
   display:flex;
   justify-content:space-between;
-  
+}
+
+body{
+  background-color: #D6FBF8;
 }
